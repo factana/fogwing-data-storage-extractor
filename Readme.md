@@ -1,4 +1,4 @@
-# _Fogwing python Intergration to Extract data from Data Storage using API_
+# _Fogwing python Integration to Extract data from Data Storage using API_
 
 This directory provide three files that extract all data from 
 Fogwing data storage using API.
