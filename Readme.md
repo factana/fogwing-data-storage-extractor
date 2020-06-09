@@ -16,17 +16,17 @@ between duration as per requirement using API client call.
 Results are in json string.
 
 ## Step:1
-#### Required files
+### Required files
 * Copy all the provided files into your Rasberry Pi and you are good to start ! You now finish with coding part.
 
 ## Step:2
-#### Installing the libraries
+### Installing the libraries
 * Install all required libraries using pip with our requirements.txt file.
     ```
     pip install -r requirements.txt
     ```
 ## Step:3
-####  Credentials
+###  Credentials
 * Change the **username** and **password** with your Fogwing Platform
   credentials. 
 * Change the **client_id**, **dev_eui** and **mac_id** 
@@ -37,7 +37,7 @@ Results are in json string.
   **Note:-** Date format should be in **DD-MM-YYYY**.
   
  ## Step:4
- #### Run and Get Started to Extract data from Fogwing data storage
+ ### Run and Get Started to Extract data from Fogwing data storage
 * Now run the file with the below command.
     ```
     python Fwg_data_extractor_API_client_simulator.py
@@ -45,6 +45,6 @@ Results are in json string.
   **Note:-** Provided everything goes in line with the above mentioned instructions,
          you will be able to see all the data in command line.
 
- #### Getting help and finding Fogwing docs
+ ### Getting help and finding Fogwing docs
  * [Fogwing Platform Forum]()
  * [Fogwing Platform Docs](https://docs.fogwing.io/)
