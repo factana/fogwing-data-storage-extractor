@@ -7,9 +7,9 @@ Fogwing data storage using API.
 
 ## Fogwing IoT data extractor
 we have provided three files:
-* [Fwg_data_extractor_API_client_simulator.py]()
-* [configuration.json]()
-* [requirements.txt]()
+* [Fwg_data_extractor_API_client_simulator.py](https://github.com/factana/fogwing-data-storage-extractor/blob/master/Fwg_data_extractor_API_client_simulator.py)
+* [configuration.json](https://github.com/factana/fogwing-data-storage-extractor/blob/master/configuration.json)
+* [requirements.txt](https://github.com/factana/fogwing-data-storage-extractor/blob/master/requirements.txt)
 
 The logic behind the code is to extract all data from Fogwing data storage,
 between duration as per requirement using API client call.
