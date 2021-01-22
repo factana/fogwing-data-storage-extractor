@@ -1,18 +1,21 @@
 {
-  "Fwg_Platform_cred": {
-    "username": "Enter your Fogwing platform username",
-    "password": "Enter your Fogwing Platform password"
-  },
-  "Fwg_IoTHub_cred":
+  "fwg_platform_cred":
   {
-    "client_id": "Enter your Fogwing IoTHub client_id",
-    "dev_eui": "Enter your Fogwing IoTHub dev_eui",
-    "mac_id": "Enter your Fogwing IoTHub mac_id"
+    "username": "Enter your Fogwing IoTHub username",
+    "password": "Enter your Fogwing IoTHub password"
   },
+
+  "fwg_IoTHub_cred":
+  {
+
+    "EUI-ID": "Enter your Fogwing IoTHub dev_eui"
+
+  },
+
   "fetch_data":
   {
-    "start_date": "Enter start date, it should be in DD-MM-YYYY",
-    "end_date": "Enter end date, it should be in DD-MM-YYYY"
+    "start_date": "Enter start date in DD-MM-YYYY format",
+    "end_date": "Enter end date in DD-MM-YYYY format"
   }
 }
 
