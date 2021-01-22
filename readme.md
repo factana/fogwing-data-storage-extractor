@@ -46,5 +46,5 @@ Results are in json string.
          you will be able to see all the data in command line.
 
  ### Getting help and finding Fogwing docs
- * [Fogwing Platform Forum]()
+ * [Fogwing Platform Forum](https://enterprise.fogwing.net/)
  * [Fogwing Platform Docs](https://docs.fogwing.io/)
