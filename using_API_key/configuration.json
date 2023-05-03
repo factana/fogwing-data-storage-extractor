@@ -1,0 +1,11 @@
+{
+  "FW_CRED": {
+    "API_KEY": "Enter Fogwing API Key",
+    "EDGE_EUI": "Enter Edge EUI",
+    "ACCOUNT_ID": "Enter Fogwing Account ID"
+  },
+  "DATE_RANGE":{
+    "START_DATE": "Enter Start date",
+    "END_DATE": "Enter End Date"
+  }
+}

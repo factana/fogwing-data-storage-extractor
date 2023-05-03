@@ -1,0 +1,11 @@
+{
+  "FW_CRED": {
+    "USERNAME": "Enter Fogwing username",
+    "PASSWORD": "Enter Fogwing password",
+    "EDGE_EUI": "Enter Edge EUI"
+  },
+  "DATE_RANGE": {
+    "START_DATE": "Enter Start date",
+    "END_DATE": "Enter End date"
+  }
+}
