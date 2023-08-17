@@ -4,9 +4,7 @@ This repository contains three files that enable you to extract data from Fogwin
 >**Note:** This SDK is subject to change as it is currently in preview.
 
 ## **Fogwing IIoT data extractor**
-
-## Fogwing IoT data extractor
-we have provided three files:
+To extract data from fogwing, we have provided three files:
 * [fwg_data_ext_apitoken.py](https://github.com/factana/fogwing-data-storage-extractor/blob/master/using_API_token/fwg_data_ext_apitoken.py)
 * [configuration.json](https://github.com/factana/fogwing-data-storage-extractor/blob/master/using_API_token/configuration.json)
 * [requirements.txt](https://github.com/factana/fogwing-data-storage-extractor/blob/master/using_API_token/requirements.txt)
